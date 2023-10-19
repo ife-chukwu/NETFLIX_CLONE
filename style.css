@@ -513,7 +513,7 @@ body {
 
 .head {
   color: whitesmoke;
-  margin-left: 10px;
+  margin-left: 110px;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   font-size: 30px;
 }
@@ -654,6 +654,9 @@ body {
 
 .category {
   margin-bottom: 50px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
 }
 .img2 {
   width: 20px;
